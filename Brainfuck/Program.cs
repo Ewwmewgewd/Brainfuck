@@ -1,4 +1,4 @@
-﻿namespace Brainfuck;
+﻿namespace BrainfuckInterpreter;
 
 public class Program
 {

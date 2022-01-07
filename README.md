@@ -4,7 +4,7 @@ A simple brainfuck interpreter written in C#
 ## Usage
 Just add Brainfuck.cs into your project folder.
 ```cs
-using Brainfuck;
+using BrainfuckInterpreter;
 ```
 ```cs
 public static void Main()
