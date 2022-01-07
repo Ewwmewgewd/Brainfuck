@@ -1,4 +1,7 @@
 # Brainfuck
+[![Build Status](https://github.com/Ewwmewgewd/Brainfuck/workflows/.NET/badge.svg)](https://github.com/fabianishere/brainfuck/actions?query=workflow%3ABuild)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 A simple brainfuck interpreter written in C#
 
 ## Usage
